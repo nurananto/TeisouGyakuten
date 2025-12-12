@@ -1,0 +1,55 @@
+{
+  "manga": {
+    "title": "Teisou Gyakuten Sekai Nara Moteru to Omotte Itara",
+    "alternativeTitle": "貞操逆転世界ならモテると思っていたら",
+    "cover": "",
+    "description": "Dunia dengan moral nafsu yang terbalik —rasio gender 1:20, cewek-cewek memiliki hasrat nafsu yang kuat, sedangkan para cowok ingin menjalani hidup nyaman dan damai dilindungi bodyguard. Bodyguard Cowok yang ada di sekitarnya semuanya tampan, dan Ikuto mengeluh bahwa terutama sahabatnya, Toosaka Rui, terlalu high-spec sehingga membuatnya tersaingi, tetapi… Sebenarnya, para bodyguard itu adalah gadis-gadis cantik yang menyamar sebagai laki-laki! Ikuto yang sama sekali tak sadar dengan hal itu selalu bertingkah polos apa adanya dengan para bodyguard yang menjaganya, membuat setiap cewek merasa punya peluang untuk dapetin dia. Saat harem tak-sengaja terbentuk, Rui—yang ingin dilihat sebagai seorang cewek—mengungkapkan semuanya pada Ikuto—!? Mimpiku sebagai seorang cowok tidak bisa ditahan lagi—romcom harem kehidupan populer SMA tanpa akhir pun dimulai!",
+    "author": "Hakuto",
+    "artist": "Hinami Yui",
+    "genre": [
+      "Shounen",
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life",
+      "Reincarnation",
+      "Crossdressing",
+      "Harem"
+    ],
+    "status": "ONGOING",
+    "views": 0,
+    "links": {
+      "mangadex": "https://mangadex.org/title/8556c131-23ed-42d6-98ba-5f2aa5037843/teisou-gyakuten-sekai-nara-moteru-to-omotte-itara",
+      "raw": "https://comic-walker.com/detail/KC_007283_S/episodes/KC_0072830000200011_E?episodeType=latest"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/TeisouGyakuten/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "webp",
+    "lockedChapters": [],
+    "type": "manga"
+  },
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "chapter": 1,
+      "folder": "1",
+      "uploadDate": "2025-12-12T13:44:34+07:00",
+      "totalPages": 33,
+      "pages": 33,
+      "locked": false,
+      "views": 0
+    },
+    "2": {
+      "title": "Chapter 2",
+      "chapter": 2,
+      "folder": "2",
+      "uploadDate": "2025-12-12T13:44:34+07:00",
+      "totalPages": 39,
+      "pages": 39,
+      "locked": false,
+      "views": 0
+    }
+  },
+  "lastUpdated": "2025-12-12T13:45:19+07:00",
+  "lastChapterUpdate": "2025-12-12T13:44:34+07:00"
+}
