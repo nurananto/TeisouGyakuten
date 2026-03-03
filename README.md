@@ -13,9 +13,7 @@
 | Author | Hakuto |
 | Artist | Hinami Yui |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Shounen · Comedy · Romance · School Life · Slice of Life · Reincarnation · Crossdressing · Harem |
-| Chapter | 5 chapter |
 
 ## Link
 
