@@ -17,7 +17,7 @@
       "Harem"
     ],
     "status": "ONGOING",
-    "views": 2600,
+    "views": 2875,
     "links": {
       "mangadex": "https://mangadex.org/title/8556c131-23ed-42d6-98ba-5f2aa5037843/teisou-gyakuten-sekai-nara-moteru-to-omotte-itara",
       "raw": "https://comic-walker.com/detail/KC_007283_S/episodes/KC_0072830000200011_E?episodeType=latest"
@@ -37,7 +37,7 @@
       "totalPages": 33,
       "pages": 33,
       "locked": false,
-      "views": 479
+      "views": 503
     },
     "2": {
       "title": "Chapter 2",
@@ -47,7 +47,7 @@
       "totalPages": 39,
       "pages": 39,
       "locked": false,
-      "views": 636
+      "views": 648
     },
     "3": {
       "title": "Chapter 3",
@@ -57,7 +57,7 @@
       "totalPages": 37,
       "pages": 37,
       "locked": false,
-      "views": 661
+      "views": 676
     },
     "4": {
       "title": "Chapter 4",
@@ -67,7 +67,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 486
+      "views": 512
     },
     "5": {
       "title": "Chapter 5",
@@ -77,9 +77,9 @@
       "totalPages": 24,
       "pages": 24,
       "locked": false,
-      "views": 94
+      "views": 226
     }
   },
-  "lastUpdated": "2026-03-03T17:11:15.697Z",
+  "lastUpdated": "2026-03-04T17:11:12.295Z",
   "lastChapterUpdate": "2026-03-03T15:21:14+07:00"
 }
